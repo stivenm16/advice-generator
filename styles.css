@@ -31,6 +31,7 @@
 }
 
 .title-container {
+    letter-spacing: 2px;
     font-size: 8px;
     display: flex;
     align-self: center;
